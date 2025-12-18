@@ -44,12 +44,6 @@ Agents Used:
 
 ---
 
-## 🎥 Presentation / Explanation Video
-
-👉 Watch here: **https://youtu.be/U_BOMbGiXHs?si=MlR0QnJDBz69gg0i**
-
----
-
 ## 🚀 How It Works
 
 The system uses multiple AI agents that cooperate:
